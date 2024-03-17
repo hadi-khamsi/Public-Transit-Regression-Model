@@ -1,2 +1,2 @@
 # Public-Transit-Regression-Model
-Utilizing linear regression models on Seoul bike system data, this project aims to forecast the demand for bicycles at any given hour, optimizing operational efficiency by ensuring the availability of bikes when and where they are needed most.
+This GitHub repository contains SAS code for implementing linear regression models on Seoul bike system data to predict bicycle demand at different hours, ultimately enhancing operational efficiency. Additionally, it includes a Microsoft PowerPoint presentation explaining the project's methodology, insights derived from the data, and the predictive equation for bike demand.
