@@ -1,6 +1,6 @@
-# Seoul Bike Sharing Linear Regression Predictor
+# Seoul Bikes SAS Linear Regression Predictor
 
-This repository contains code and documentation for building a linear regression model to predict the demand for bicycles in the Seoul bike sharing system.
+This repository contains SAS code and documentation for building a linear regression model to predict the demand for bicycles in the Seoul bike sharing system.
 
 ## Project Overview
 The aim of this project is to optimize operational efficiency by forecasting the demand for bicycles at any given hour, ensuring the availability of bikes when and where they are needed most.
