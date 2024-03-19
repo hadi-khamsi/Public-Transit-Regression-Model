@@ -36,6 +36,6 @@ The aim of this project is to optimize operational efficiency by forecasting the
 
 ## Usage
 - Clone the repository and run the provided SAS code to replicate the analysis.
-- Refer to the detailed Microsoft Word report included in the repository for a comprehensive understanding of the project and data.
+- Refer to the CSV File in the repository for a comprehensive understanding of the data and variables.
 
 For any questions or inquiries, feel free to contact the project owner.
